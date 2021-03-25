@@ -2,7 +2,7 @@
 Repositorio que contiene los archivos de la práctica global de Gestión de Bases de Datos de 1º ASIR
 
 ## Contenido del repositorio
- - Descripción de casuística (a continuación)
+ - Descripción de casuística ([a continuación](.#descripción-de-la-cusuística))
  - Esquema E-R 
  - Diagrama de dependencias
  - Normalización
