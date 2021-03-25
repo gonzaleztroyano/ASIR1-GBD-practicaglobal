@@ -4,6 +4,7 @@ Repositorio que contiene los archivos de la práctica global de Gestión de Base
 ## Contenido del repositorio
  - Descripción de casuística ([a continuación](#descripción-de-la-cusuística))
  - [Esquema E-R](https://github.com/gonzaleztroyano/asir1-gbd-practicaglobal/raw/main/DiagramaEntidadRelacion.png)
+ - [Modelo Relacional](./ModeloRelacional.pdf)
  - Diagrama de dependencias
  - Normalización
 
