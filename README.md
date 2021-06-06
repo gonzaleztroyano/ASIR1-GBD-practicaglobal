@@ -7,6 +7,8 @@ Repositorio que contiene los archivos de la práctica global de Gestión de Base
  - [Modelo Relacional](./ModeloRelacional.pdf)
  - [Diagrama de dependencias](./Dependencias.pdf)
  - [Normalización](./Normalización.pdf)
+ - [Creación de tablas e inserción de datos](#Creación-de-tablas-e-inserción-de-datos)
+ - [Sentencias SQL de ejemplo](#Sentencias-SQL-de-ejemplo)
 
 ### Descripción de la cusuística
 Se solicita el diseño de una Base de Datos relacional que se adapte a la situación que se describe a continuación:
@@ -61,3 +63,13 @@ Se solicita el diseño de una Base de Datos relacional que se adapte a la situac
   - IMPORTANTE: Se desea guardar un registro de la asistencia a los eventos. Para ello es necesario tener en cuenta que un mismo cliente puede acudir a más de uno (siendo necesario guardar todos). También se desa guardar la butaca en la que se ha situado el asistente con el fin de reconocer contactos estrechos en caso de resultado positivo, motivado por la situación pandémica.  
 
 
+# Creación de tablas e inserción de datos
+En base a lo anteriormente expuesto se propone la creación de las tablas que se pueden ver en [este documento](./creacion_tablas-libros.txt).
+A su vez, se insertan [estos datos](./inserciones-libros.txt) para facilitar el trabajo y la práctica. 
+
+Para crear las inserciones en la base de datos se ha utilizado [esta Hoja de Cálculo de Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTuZgZKcHg35HDMT9gsCXMrqt1-WcHcI21dyb-phopM0MM-CRkt8QwqzMp2MkmdpS7h2i5SHkEiioN/pubhtml). Mención especial merece el complemento HdC+ para Google Sheets de Pablo Felip, que se puede conseguir desde [este enlace](https://workspace.google.com/marketplace/app/hdc+/410659432888) hacia Google Workspace Marcketplace.
+
+
+# Sentencias SQL de ejemplo
+Se proponen [estos ejercicios](./SentenciasSQL-1.pdf) a nivel general: sentencias SELECT sencillas, con condicionales WHERE simples y el uso de ORDER BY para obtención de resultados. 
+En tanto a funciones y procedimientos, se proponen estos [otros ejercicios](./SentenciasSQL-2.pdf) especializados. 
