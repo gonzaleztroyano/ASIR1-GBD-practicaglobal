@@ -5,8 +5,8 @@ Repositorio que contiene los archivos de la práctica global de Gestión de Base
  - Descripción de casuística ([a continuación](#descripción-de-la-cusuística))
  - [Esquema E-R](https://github.com/gonzaleztroyano/asir1-gbd-practicaglobal/raw/main/DiagramaEntidadRelacion.png)
  - [Modelo Relacional](./ModeloRelacional.pdf)
- - Diagrama de dependencias
- - Normalización
+ - [Diagrama de dependencias](./Dependencias.pdf)
+ - [Normalización](./Normalización.pdf)
 
 ### Descripción de la cusuística
 Se solicita el diseño de una Base de Datos relacional que se adapte a la situación que se describe a continuación:
