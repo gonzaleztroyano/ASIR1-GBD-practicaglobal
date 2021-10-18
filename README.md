@@ -1,4 +1,4 @@
-# Práctica Global GBD 2º Trim 1ASIR
+# [WiP]Práctica Global GBD 2º Trim 1ASIR
 Repositorio que contiene los archivos de la práctica global de Gestión de Bases de Datos de 1º ASIR
 
 ## Contenido del repositorio
