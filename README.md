@@ -77,5 +77,5 @@ En tanto a funciones y procedimientos, se proponen estos [otros ejercicios](./Se
 
 # Productos finales del Proyecto
 A continuación se recogen los dos documentos finales resultado de esta práctica:
- - [Entregable 1](./Práctica E-R y MySQL - Pablo González Troyano - GBD - 1ASIR.pdf). Desarrollo iniciar del supuesto, creación de base de datos, procedimientos y funciones básicas.
- - [Entregable 2](./Práctica procedimientos y funciones - Pablo González Troyano - GBD - 1ASIR.pdf). Mejoras en los procedimientos y funciones presentados en el primer entregable. Se añaden nuevos ejemplos. 
+ - [Entregable 1](./Práctica_E-R_y_MySQL.pdf). Desarrollo iniciar del supuesto, creación de base de datos, procedimientos y funciones básicas.
+ - [Entregable 2](./Práctica_procedimientos_y_funciones.pdf). Mejoras en los procedimientos y funciones presentados en el primer entregable. Se añaden nuevos ejemplos. 
