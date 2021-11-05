@@ -9,6 +9,7 @@ Repositorio que contiene los archivos de la práctica global de Gestión de Base
  - [Normalización](./Normalización.pdf)
  - [Creación de tablas e inserción de datos](#Creación-de-tablas-e-inserción-de-datos)
  - [Sentencias SQL de ejemplo](#Sentencias-SQL-de-ejemplo)
+ - [⭐ - Productos finales del proyecto](#Productos-finales-del-Proyecto)
 
 ### Descripción de la cusuística
 Se solicita el diseño de una Base de Datos relacional que se adapte a la situación que se describe a continuación:
@@ -73,3 +74,8 @@ Para crear las inserciones en la base de datos se ha utilizado [esta Hoja de Cá
 # Sentencias SQL de ejemplo
 Se proponen [estos ejercicios](./SentenciasSQL-1.pdf) a nivel general: sentencias SELECT sencillas, con condicionales WHERE simples y el uso de ORDER BY para obtención de resultados. 
 En tanto a funciones y procedimientos, se proponen estos [otros ejercicios](./SentenciasSQL-2.pdf) especializados. 
+
+# Productos finales del Proyecto
+A continuación se recogen los dos documentos finales resultado de esta práctica:
+ - [Entregable 1](./Práctica E-R y MySQL - Pablo González Troyano - GBD - 1ASIR.pdf). Desarrollo iniciar del supuesto, creación de base de datos, procedimientos y funciones básicas.
+ - [Entregable 2](./Práctica procedimientos y funciones - Pablo González Troyano - GBD - 1ASIR.pdf). Mejoras en los procedimientos y funciones presentados en el primer entregable. Se añaden nuevos ejemplos. 
